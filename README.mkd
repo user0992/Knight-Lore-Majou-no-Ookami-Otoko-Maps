@@ -11,3 +11,12 @@ Approximate locations for the invisible items on each stage.
 * [stage2-7.txt](stage2-7.txt)
 * [stage2-8.txt](stage2-8.txt)
 * [stage2-9.txt](stage2-9.txt)
+
+`X` marks the item.
+
+If it is on a stick like this:
+```
+ X
+ |
+```
+then the item is elevated off the floor.

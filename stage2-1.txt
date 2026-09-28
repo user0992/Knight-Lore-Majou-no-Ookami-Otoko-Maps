@@ -18,7 +18,7 @@
 
 07: 40 7e 00 axe               08: 90 80 00 bracelet          09: 31 62 08 sword
              .*.                            .*.                            .*.X
-          .*     *.                      .*     *.                      .*    |*.
+          .*     *.                      .*     *L                      .*    |*.
        .*           *.                .*           *.                .*           *.
      *.          X    .*            *.               .*            *.               .*
         *.         .*                  *.         .*                  *.         .*
@@ -26,10 +26,10 @@
               *                              *                              *
 
 10: 88 48 00 diamond
-             .*.
-          .*     *.
-       .*           *.
-     *.    X          .*
-        *.         .*
+             .*.                   X = item
+          .*     *.                | = off the ground
+       .*           *.             L = bonus Life
+     *.   FX          .*           F = bonus Flash
+        *.         .*              Jump to reveal bonus items
            *.   .*
               *

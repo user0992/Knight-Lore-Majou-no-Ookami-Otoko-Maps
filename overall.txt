@@ -1,17 +1,17 @@
 Scene 1
 
-    9 - 8                  * = cauldron
+    9 - 8                  * = wizard
     |   |                  1 = vase
     0 - 7 - 5 - 4          2 = crown
         |       |          3 = clock
         6       3          4 = ring
         |       |          5 = crystal ball
-        * - 1 - 2          6 = pegasus
+        * - 1 - 2          6 = gryphon
                            7 = axe
 Scene 2                    8 = bracelet
-                           9 = sword
+                           9 = dagger
     6 - 7 - 8 - *          0 = diamond
-        |       |
+        |       |          ! = replaced by teleport
         5       1
         |       |
         4 - 3 - 2 - 0!
@@ -20,18 +20,18 @@ Scene 2                    8 = bracelet
 
 Scene 3
 
-     0 - * - 1             * = cauldron
+     0 - * - 1             * = wizard
      |       |             1 = vase
      9       2             2 = crown
      |       |             3 = clock
      8 - 7!- 3 - 6         4 = ring
              |   |         5 = crystal ball
-             4 - 5         6 = pegasus
+             4 - 5         6 = gryphon
                            7 = axe
 Scene 4                    8 = bracelet
-                           9 = sword
+                           9 = dagger
          6                 0 = diamond
-         |
+         |                 ! = replaced by teleport
      8 - 7 - 5 - 4
          |       |
          9       3!
@@ -48,18 +48,18 @@ Scene 5
     |   |
     3 - 4
 
-Scene 6                    * = cauldron
+Scene 6                    * = wizard
                            1 = vase
               2 - 3        2 = crown
               |   |        3 = clock
               1 - 4        4 = ring
               |   |        5 = crystal ball
-      7!- 6 - * - 5        6 = pegasus
+      7!- 6 - * - 5        6 = gryphon
       |   |   |            7 = axe
       8 - 9 - 0            8 = bracelet
-                           9 = sword
+                           9 = dagger
 Scene 7                    0 = diamond
-
+                           ! = replaced by teleport
              1 - *
              |   |
          4 - 3!- 2
@@ -76,16 +76,16 @@ Scene 8
     |   |
     1 - 2 - 4
         |   |
-        6 - 5 - 7 - 8      * = cauldron
+        6 - 5 - 7 - 8      * = wizard
                 |   |      1 = vase
                 0 - 9      2 = crown
                            3 = clock
 Scene 9                    4 = ring
                            5 = crystal ball
-              *            6 = pegasus
+              *            6 = gryphon
               |            7 = axe
       7 - 6 - 1            8 = bracelet
-      |   |   |            9 = sword
+      |   |   |            9 = dagger
       8 - 5 - 2            0 = diamond
       |   |   |
   0 - 9 - 4 - 3
